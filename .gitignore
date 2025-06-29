@@ -1,0 +1,13 @@
+output/
+output/
+checkpoints/
+*.parquet
+*.crc
+_delta_log/
+data/
+venv/
+*.egg-info/
+data/
+venv/
+output/
+checkpoints/
